@@ -3,7 +3,6 @@ Transmit Favorites for Alfred 2
 
 A simple Alfred 2 workflow with Transmit 2 support.
 
-![Alfred 2 Transmit 2](http://i49.tinypic.com/s1jd08.jpg)
 
 
 Installation
@@ -16,10 +15,7 @@ Installation
 Instructions
 ----------------
 
-ftp `<Query>`
+mnt <favorite>
 
-This simple workflow find Transmit 2 favorites by:
-- Favorite name
-- Username
-- Server Name
-- Remote Path
+If the transmit folder is already mounted, it brings finder to focus, otherwise it mounts then shows in finder
+
